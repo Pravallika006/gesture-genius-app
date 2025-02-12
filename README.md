@@ -1,1 +1,2 @@
-# gesture-genius-app
+# Web-app-Gestures
+Control your device with Gestures
